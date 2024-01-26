@@ -6,7 +6,6 @@
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/lopesa95)
 
 ![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=LopesA95&show_icons=true&theme=dracula)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LopesA95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que uso no meu dia

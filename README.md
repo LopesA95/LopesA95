@@ -2,13 +2,13 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou Anderson Lopes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lopesa95&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedor Front End Jr.
+- 🔥 Desenvolvedor Front End 😁
 
 - 💬 Pergunte-me sobre **JavaScript, HTML, CSS, SQL, Node.JS, React, TailwindCss, jQuery**
 
 <br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tecnologias que Utilizo no meu dia a dia 😜
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -30,7 +30,7 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub 
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=lopesa95&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
@@ -39,9 +39,9 @@
 
 <br><br>
 
-<p>Não é importante ser melhor do que outra pessoa, mas ser melhor do que voce foi ontem. 👣</p>
+<p>Um dia sem tentar é um dia perdido. 👣</p>
 <!--
-## Contact
+## Contato
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/andersonloopzdev/" target="_blank">

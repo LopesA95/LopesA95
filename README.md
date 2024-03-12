@@ -2,9 +2,9 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou Anderson Lopes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lopesa95&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Jr. Web Developer
+- 🔥 Desenvolvedor Front End Jr.
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Pergunte-me sobre **JavaScript, HTML, CSS, SQL, Node.JS, React, TailwindCss, jQuery**
 
 <br>
 

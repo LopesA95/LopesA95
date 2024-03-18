@@ -4,7 +4,7 @@
 
 - 🔥 Desenvolvedor Front End 😁
 
-- 💬 Pergunte-me sobre **JavaScript, HTML, CSS, SQL, Node.JS, React, TailwindCss, jQuery**
+- 💬 Pergunte-me sobre **JavaScript, HTML, CSS, SQL, Node.JS, React, TailwindCss, jQuery e Sass**
 
 <br>
 

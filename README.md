@@ -6,15 +6,13 @@
 Tenho conhecimento Avançado nas Techs básicas do Fron-End como HTML5, Css e JavaScript como também em Techs mais avançadas como ReactJs, VueJs,JQuery, Redux, TailwindCss, Cypress e tambem possuo dominio sólido em versionamento de código com o git e github. 
 Sigo buscando conhecimento constantemente e me atualizo sempre no que o mercado mais utiliza na área da tecnologia, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lopesa95&color=orange" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lopesa95&color=green" alt="Profile views" /> </p>
 
 </details>
 
 - 🔥 Desenvolvedor Front End 😁
 
 - 💬 Pergunte-me sobre **JavaScript, HTML, CSS, SQL, Node.JS, React, TailwindCss, jQuery e Sass**
-
-
 
 ## 🛠 &nbsp; Tech's 😜
 
@@ -36,7 +34,6 @@ Sigo buscando conhecimento constantemente e me atualizo sempre no que o mercado 
 ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<br>
 
 <h3 align="left">Connect with me!</h3>
 
@@ -46,8 +43,8 @@ Sigo buscando conhecimento constantemente e me atualizo sempre no que o mercado 
 
 <h3>GitHub Stats</h3>
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lopesa95&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF5733&text_color=FFF&border_radius=3&border_color=FF5733&icon_color=FF5733&theme=jolly)
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lopesa95&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF5733&hide=html,css&bg_color=000&text_color=FF5733&border_radius=3&border_color=FF5733&count_private=true)](https://github.com/mari4souza/github-readme-stats)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lopesa95&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=30&hide=issues&bg_color=000&title_color=FF5733&text_color=FFF&border_radius=3&border_color=FF5733&icon_color=FF5733&theme=jolly)
+[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lopesa95&line_height=10&card_width=300&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=FF5733&hide=html,css&bg_color=000&text_color=FF5733&border_radius=3&border_color=FF5733&count_private=true)](https://github.com/lopesa95/github-readme-stats)
 <br>
 
 <p>Um dia sem tentar é um dia perdido. 👣</p>

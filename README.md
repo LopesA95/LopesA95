@@ -16,7 +16,7 @@ Sigo buscando conhecimento constantemente e me atualizo sempre no que o mercado 
 
 
 
-## 🛠 &nbsp;Tecnologias que Utilizo no meu dia a dia 😜
+## 🛠 &nbsp; Tech's 😜
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -44,6 +44,11 @@ Sigo buscando conhecimento constantemente e me atualizo sempre no que o mercado 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF5733&color:FFF)](https://www.linkedin.com/in/andersonloopzdev/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF5733&color:FFF)](https://www.instagram.com/_dev.lops/)
 
+<h3>GitHub Stats</h3>
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lopesa95&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF5733&text_color=FFF&border_radius=3&border_color=FF5733&icon_color=FF5733&theme=jolly)
+[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mari4souza&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=FF5733&border_radius=3&border_color=FF5733&count_private=true)](https://github.com/mari4souza/github-readme-stats)
+<br>
 
 
 <picture>

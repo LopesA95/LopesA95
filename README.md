@@ -50,21 +50,20 @@ Sigo buscando conhecimento constantemente e me atualizo sempre no que o mercado 
 [![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mari4souza&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=FF5733&border_radius=3&border_color=FF5733&count_private=true)](https://github.com/mari4souza/github-readme-stats)
 <br>
 
+<p>Um dia sem tentar é um dia perdido. 👣</p>
 
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lopesa95/lopesa95/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lopesa95/lopesa95/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lopesa95/lopesa95/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
+<!--
 
 
 
-<details align="left">
-  <summary></summary>  
-  <div align="right"><a href="https://github.com/lopesa95">LopesA95/a>.</div>
 
-<p>Um dia sem tentar é um dia perdido. 👣</p>
 <!--
 
 <!--

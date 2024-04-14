@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: Sutil/snk@master
+      - uses: LopesA95/LopesA95
         id: snake-gif
         with:
           github_user_name: LopesA95

@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=200&size=25&pause=1000&color=F77709&multiline=true&random=false&width=550&lines=Ol%C3%A1%2C+me+chamo+Anderson!+Seja+bem+vindo+%F0%9F%98%81)](https://git.io/typing-svg)
 
 <p align="left">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Uninorte, Engenharia de Software pela Estacio e Engenharia de Front End pela EBAC, possuo tambem diploma de Engenharia Civil.
-Tenho conhecimento Avançado nas Techs básicas do Fron-End como HTML5, Css e JavaScript como também em Techs mais avançadas como ReactJs, VueJs,JQuery, Redux, TailwindCss, Cypress e tambem possuo dominio sólido em versionamento de código com o git e github. 
-Sigo buscando conhecimento constantemente e me atualizo sempre no que o mercado mais utiliza na área da tecnologia, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
+Tenho conhecimento Avançado nas Techs básicas do Fron-End como HTML5, Css e JavaScript tambem possuo conhecimento avaçando em ReactJs, VueJs, JQuery, Redux, TailwindCss, Cypress e dominio sólido em versionamento de código com o git e github. 
+Sigo buscando conhecimento constantemente e me atualizo sempre no que o mercado mais utiliza, adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lopesa95&color=green" alt="Profile views" /> </p>
 

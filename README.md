@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/LopesA95/fe67eb3a5794edd949becf0e62e88380/raw/62bed68da7d44b38a1e49a20da7cb44c062917b7/githubcard.svg"/>
+<img align="right" height="450em" src="https://raw.githubusercontent.com/gist/LopesA95/fe67eb3a5794edd949becf0e62e88380/raw/62bed68da7d44b38a1e49a20da7cb44c062917b7/githubcard.svg"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7483D&random=false&width=500&lines=Ol%C3%A1%2C+me+chamo+Anderson+Lopes!+)](https://git.io/typing-svg)
 
@@ -52,9 +52,9 @@ Sigo buscando conhecimento constantemente e me atualizo sempre no que o mercado 
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lopesa95/lopesa95/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lopesa95/lopesa95/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lopesa95/lopesa95/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
 
